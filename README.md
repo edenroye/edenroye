@@ -2,7 +2,7 @@
 
 ###### Welcome to my IT and Coding journey. Using this to track what I learn and hold myself accountable on this journey.
 
-- 🌱 **Currently learning:** Terminal, git, the basics...
+- 🌱 **Currently learning:** Terminal, git, the basics.
 - 💬 **Ask me about:** Beginner mistakes (I'm collecting them)
 - ⚡ **Fun fact:** I just learned what a commit is.
 - [x] STEP ONE ACHIEVED
